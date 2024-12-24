@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Professional virtual assistant services to streamline your workflow and enhance productivity.">
+    <meta name="keywords" content="Virtual Assistant, Administrative Services, Project Management, Customer Service">
+    <meta name="author" content="Your Name">
+    <title>Portfolio | Virtual Assistant</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Welcome to My Portfolio</h1>
+            <p>Helping businesses grow through expert virtual assistant services.</p>
+        </div>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#testimonials">Testimonials</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    <section id="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>I am a skilled virtual assistant with 3+ years of experience in administrative tasks, customer service, and project management. I aim to streamline workflows and enhance productivity.</p>
+        </div>
+    </section>
+    <section id="services">
+        <div class="container">
+            <h2>Services</h2>
+            <ul>
+                <li><strong>Administrative Management:</strong> Streamlining your administrative tasks for better efficiency.</li>
+                <li><strong>Customer Support:</strong> Providing exceptional customer service to retain loyal customers.</li>
+                <li><strong>Project Coordination:</strong> Managing projects to meet deadlines and goals effectively.</li>
+            </ul>
+        </div>
+    </section>
+    <section id="testimonials">
+        <div class="container">
+            <h2>Testimonials</h2>
+            <blockquote>
+                "An exceptional virtual assistant! Their attention to detail and professionalism is unmatched." - Jane D.
+            </blockquote>
+            <blockquote>
+                "Efficient, reliable, and a pleasure to work with. Highly recommend!" - John S.
+            </blockquote>
+        </div>
+    </section>
+    <section id="contact">
+        <div class="container">
+            <h2>Contact Me</h2>
+            <p>Ready to enhance your business? Reach out to me:</p>
+            <p>Email: yourname@example.com</p>
+            <p>Phone: (123) 456-7890</p>
+        </div>
+    </section>
+    <footer>
+        <div class="container">
+            <p>© 2024 Your Name. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
